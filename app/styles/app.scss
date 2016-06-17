@@ -1,0 +1,9 @@
+@import "extra";
+@import "jspm:bootstrap-sass/assets/stylesheets/_bootstrap";
+@import "jspm:normalize.css/normalize";
+
+.foo {
+  .bar {
+    color: indigo;
+  }
+}
